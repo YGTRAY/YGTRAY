@@ -17,7 +17,7 @@ I'm passionate about leveraging data and technology to drive insights and soluti
 
 💡 I'm fascinated by:
 
--🤖🧠💻 **AI and Machine Learning**
+- 🤖🧠💻 **AI and Machine Learning**
 - 📊📈📉 **Data Science and Analytics**
 - 💻🔧🌐 **IT Infrastructure and Cloud Technologies**
 - 🌌⭐🕳️ **Astronomy Enthusiast:** I spend my free time and learning about the wonders of the universe. The cosmos never fails to amaze me with its vastness and mysteries.
