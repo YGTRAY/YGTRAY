@@ -18,7 +18,7 @@ I'm passionate about leveraging data and technology to drive insights and soluti
 - [Elaboration d’un projet d’identification des sites propices pour l’implantation des plaques solaires dans la région de Dra Tafilalt](link : soon): Brief description
 
 💡 I'm fascinated by:
-  📈🔍📊 **Business Intelligence**
+- 📈🔍📊 **Business Intelligence**
 - 🤖🧠💻 **AI and Machine Learning**
 - 📊📈📉 **Data Science and Analytics**
 - 💻🔧🌐 **IT Infrastructure and Web development**
