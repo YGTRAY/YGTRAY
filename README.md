@@ -12,7 +12,7 @@ I'm passionate about leveraging data and technology to drive insights and soluti
 🚀 Some of my recent projects:
 
 - [Développement d'un modèle de Classification des herbes culinaire ‘’ Coriandre ‘’ et ‘’ Persil ‘’](link : soon): Brief description
-- [Création d’un Portail de Vente en Ligne de Dattes Palmier](Link to project): Brief description
+- [Création d’un Portail de Vente en Ligne de Dattes Palmier](https://github.com/YGTRAY/Ecom-website_Date-Palm.git): This is an Ecom website for selling Moroccan date palms using JEE Technology
 - [Réalisation d’un projet en Business Intelligence sur le thème de « Le crime dans la ville de New York »](link : soon): Brief description
 - [Création d’une application de Cryptage et Compression des vidéos](Link to project): Brief description
 - [Elaboration d’un projet d’identification des sites propices pour l’implantation des plaques solaires dans la région de Dra Tafilalt](link : soon): Brief description
