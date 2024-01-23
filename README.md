@@ -14,7 +14,7 @@ I'm passionate about leveraging data and technology to drive insights and soluti
 - [Développement d'un modèle de Classification des herbes culinaire ‘’ Coriandre ‘’ et ‘’ Persil ‘’](link : soon): Brief description
 - [Création d’un Portail de Vente en Ligne de Dattes Palmier](https://github.com/YGTRAY/Ecom-website_Date-Palm.git): This is an Ecom website for selling Moroccan date palms using JEE Technology
 - [Réalisation d’un projet en Business Intelligence sur le thème de « Le crime dans la ville de New York »](link : soon): Brief description
-- [Création d’une application de Cryptage et Compression des vidéos](https://github.com/YGTRAY/cryptingCompressingVideo.git): This repo contain an implementation of compressing and crypting videos with AES-CBC and DWT respectively
+- [Création d’une application de Cryptage et Compression des vidéos](https://github.com/YGTRAY/cryptingCompressingVideo.git): This repo contains an implementation of compressing and crypting videos with AES-CBC and DWT respectively
 - [Elaboration d’un projet d’identification des sites propices pour l’implantation des plaques solaires dans la région de Dra Tafilalt](link : soon): Brief description
 
 💡 I'm fascinated by:
